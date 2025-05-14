@@ -26,3 +26,33 @@ Note that we mostly work as volunteers and therefore only receive volunteer comp
 ## Repositories hosted here
 Because of the nature of what we do, the code we host here is all private.
 If you wish to collaborate with us on one of our projects or wish to buy any of our products or services, feel free to reach out to us through our [website](https://blv-sport.de/bezirke/oberbayern/service-ua-veranstaltungen).
+
+# Official Timekeeper BLV (Deutsch)
+Herzlich willkommen! Wir sind die offiziellen Zeitnehmer für den Bayerischer Leichtathletikverband e. V. Bezirk Oberbayern.
+
+## Was wir machen
+Wir bieten Zeitnahme, Wettkampfbüro und weitere technische Unterstützung für Leichtathletikwettkämpfe an.
+Den Großteil der Sommerwochenenden verbringen wir auf mindestens einem Sportplatz in Bayern.
+Manchmal sind wir auch in Stadien außerhalb Bayerns anzutreffen, wenn wir Dienstleister für andere Leichtathletikveranstaltungen sind.
+
+Wenn Sie mehr über unsere Dienstleistung wissen möchten, besuchen Sie am Besten unsere [Website](https://blv-sport.de/bezirke/oberbayern/service-ua-veranstaltungen).
+
+## Wer wir sind
+Wir sind ein Team von Menschen, die einen großen Teil ihrer Freizeit der Leichtathletik widmen.
+Mit einer einzigartigen Kombination aus Nerdigkeit, Liebe zur Leichtathletik und einer Sucht nach Adrenalin haben wir hier das perfekte Hobby gefunden, in das wir unsere Leidenschaft hineinstecken können.
+
+## Mach bei uns mit!
+Wenn Du
+- unsere Passion für Leichtathletik und Veranstaltungstechnik teilst
+- Du hinter die Kulissen von coolen Sportevents schauen möchtest
+- in oder in der Nähe von Bayern wohnst
+
+...würden wir uns sehr freuen, wenn Du bei uns mitmachst.
+
+Sprich uns einfach an, wenn Du uns in einem Stadion siehst oder kontaktiere uns über unsere [Website](https://blv-sport.de/bezirke/oberbayern/service-ua-veranstaltungen).
+Bitte beachte, dass die Mitarbeit bei uns ein Ehrenamt ist und wir daher meistens nur eine Aufwandsentschädigung für unsere Tätigkeit erhalten.
+
+## Repositories auf GitHub
+Wegen der Art unserer Tätigkeit ist der Code, den wir hier hosten, vollständig privat.
+Wenn Sie mit uns an einem unserer Projekte zusammenarbeiten oder eines unserer Produkte oder Dienstleistungen erwerben möchten, können Sie uns gerne über unsere [Website](https://blv-sport.de/bezirke/oberbayern/service-ua-veranstaltungen) kontaktieren.
+
